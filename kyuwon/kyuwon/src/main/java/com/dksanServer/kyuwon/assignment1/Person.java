@@ -1,3 +1,4 @@
+// 1주차 과제 제출
 package com.dksanServer.kyuwon.assignment1;
 
 public class Person implements PersonInterface{
